@@ -1,2 +1,12 @@
+mkdir flask-server
+cd flask-server
+touch server.py or New-Item server.py
+
+then you can create the frontend project (npx create-react-app client)
+
+make virtual environment using( python -m venv venv )
+
 to open virtual environment use: .\venv\Scripts\activate where venv is the name i gave to virtual environment
 then install falsk use: pip install Flask
+
+to start the server use ( python .\server.py )
