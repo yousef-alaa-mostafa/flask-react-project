@@ -7,6 +7,7 @@ then you can create the frontend project (npx create-react-app client)
 make virtual environment using( python -m venv venv )
 
 to open virtual environment use: .\venv\Scripts\activate where venv is the name i gave to virtual environment
-then install falsk use: pip install Flask
+then install falsk use: pip install Flask 
+and pip install -U flask-cors to install cors
 
 to start the server use ( python .\server.py )
