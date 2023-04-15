@@ -1,0 +1,2 @@
+to open virtual environment use: .\venv\Scripts\activate where venv is the name i gave to virtual environment
+then install falsk use: pip install Flask
